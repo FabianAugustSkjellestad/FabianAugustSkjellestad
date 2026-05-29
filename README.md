@@ -19,7 +19,7 @@ Transition from student to professional developer who delivers real value
 `JavaScript` `HTML5` `CSS3`
 
 **Tools & Practices:**  
-`Git` `GitHub` `Responsive Design` `Cross-browser Compatibility`
+`Git` `GitHub` `Responsive Design` `Cross-browser Compatibility` `VSCode` `Figma`
 
 ## 💼 Open to:
 Internships, Junior Developer Roles, Collaborative Projects
