@@ -16,7 +16,7 @@ Transition from student to professional developer who delivers real value
 ## 🛠️ Technical Skills
 
 **Languages:**  
-`JavaScript` `HTML5` `CSS3`
+`JavaScript` `HTML` `CSS`
 
 **Tools & Practices:**  
 `Git` `GitHub` `Responsive Design` `Cross-browser Compatibility` `VSCode` `Figma`
