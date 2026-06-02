@@ -8,10 +8,10 @@
 I believe in learning by doing. Each project is an opportunity to push my boundaries, embrace challenges, and contribute meaningful solutions. I'm committed to writing clean, maintainable code and staying current with industry standards.
 
 ## 🎯 Goals & Aspirations
-Create impactful digital experiences that make a difference
-Continuously expand my technical expertise across the frontend ecosystem
-Collaborate with talented developers and contribute to innovative projects
-Transition from student to professional developer who delivers real value
+* Create impactful digital experiences that make a difference
+* Continuously expand my technical expertise across the frontend ecosystem
+* Collaborate with talented developers and contribute to innovative projects
+* Transition from student to professional developer who delivers real value
 
 ## 🛠️ Technical Skills
 
