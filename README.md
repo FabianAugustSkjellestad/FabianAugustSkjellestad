@@ -25,7 +25,7 @@ I believe in learning by doing. Each project is an opportunity to push my bounda
 Internships, Junior Developer Roles, Collaborative Projects
 
 ## 📫 Let's Connect:
-fabianaugustskjellestad@gmail.com´
+fabianaugustskjellestad@gmail.com
 
 <!--
 **FabianAugustSkjellestad/FabianAugustSkjellestad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
